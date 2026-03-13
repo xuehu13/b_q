@@ -1,3 +1,4 @@
+
 # Binance Quant MVP (Spot BTCUSDT)
 
 ## MVP Scope
@@ -64,3 +65,4 @@ python app/main.py
 - `logs/trade.log`
 - `logs/error.log`
 - `data/logs/*.log`
+
