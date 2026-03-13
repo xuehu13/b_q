@@ -1,1 +1,1 @@
-# binance_quant
+# b_q
